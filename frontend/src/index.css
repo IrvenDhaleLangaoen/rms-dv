@@ -1,0 +1,6 @@
+/* index.css */
+@import './assets/fonts/fonts.css'; /* Import your custom fonts first */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

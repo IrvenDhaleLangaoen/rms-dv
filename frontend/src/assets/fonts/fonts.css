@@ -1,0 +1,14 @@
+/* src/assets/fonts/fonts.css */
+@font-face {
+    font-family: 'ProductSans';
+    src: url('./Product Sans Bold.ttf') format('truetype'); /* Corrected format */
+    font-weight: bold; /* Adjust weight as needed */
+    font-style: normal; /* Use appropriate styles */
+}
+
+@font-face {
+    font-family: 'ProdigySans';
+    src: url('../fonts/ProdigySans-ExtraBold.ttf') format('truetype'); /* Corrected format */
+    font-weight: 800; /* Adjust weight as needed for Extra Bold */
+    font-style: normal; /* Use appropriate styles */
+}
